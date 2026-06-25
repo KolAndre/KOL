@@ -1,0 +1,9 @@
+#include <stdio.h>
+	int main () {
+	int e,s,p;
+	scanf("%d", &p);
+e = p*2; 
+s = e*2; 
+	printf ("%d\n",s);
+return 0;
+	}
